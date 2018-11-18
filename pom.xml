@@ -2490,7 +2490,7 @@
         <json.simple.version>1.1.1</json.simple.version>
         <esotericsoftware.kryo.version>3.0.3</esotericsoftware.kryo.version>
         <org.objenesis.version>2.1</org.objenesis.version>
-        <esotericsoftware.minlog.version>1.3.0</esotericsoftware.minlog.version>
+        <esotericsoftware.minlog.version>1.3-SNAPHOT</esotericsoftware.minlog.version>
         <orbit.version.snakeyaml>1.16.0.wso2v1</orbit.version.snakeyaml>
         <orbit.snakeyaml.import.version.range>[1.16.0.wso2v1, 2.0.0)</orbit.snakeyaml.import.version.range>
 
